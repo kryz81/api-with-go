@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "name": "First Recipe",
+    "tags": [
+      "Tag 1",
+      "Tag 2"
+    ],
+    "ingredients": [
+      "Ingr 1",
+      "Ingr 2"
+    ],
+    "publishedAt": "2021-12-04T14:13:07.9877173+01:00"
+  },
+  {
+    "id": "2",
+    "name": "Second Recipe",
+    "tags": [
+      "Tag 3",
+      "Tag 3"
+    ],
+    "ingredients": [
+      "Ingr 3",
+      "Ingr 4"
+    ],
+    "publishedAt": "2021-12-04T14:13:07.9877177+01:00"
+  },
+  {
+    "id": "c6lmjmvg45ma9dr66jdg",
+    "name": "",
+    "tags": null,
+    "ingredients": null,
+    "publishedAt": "2021-12-04T14:15:07.79888+01:00"
+  },
+  {
+    "id": "c6lmmpvg45ma9dr66je0",
+    "name": "Third recipe",
+    "tags": [
+      "Tag A",
+      "Tag B"
+    ],
+    "ingredients": [
+      "A",
+      "B"
+    ],
+    "publishedAt": "2021-12-04T14:21:43.5826986+01:00"
+  }
+]

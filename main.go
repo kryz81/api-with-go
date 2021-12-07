@@ -14,7 +14,10 @@ func main() {
 	router.GET("/page/:page", handlers.Page)
 
 	router.POST("/recipes", handlers.NewRecipe)
+	router.GET("/recipes/:id", handlers.GetRecipe)
 	router.GET("/recipes", handlers.GetRecipes)
+	router.PUT("/recipes/:id", handlers.UpdateRecipe)
+	router.DELETE("/recipes/:id", handlers.DeleteRecipe)
 
 	// run server
 	err := router.Run(":5000")
